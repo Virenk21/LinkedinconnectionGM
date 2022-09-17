@@ -6,7 +6,7 @@ const Footer = () => {
       <p></p>
       <p1>
         {" "}
-        A Unit of Viren Corporation © 2022 <br />&nbsp; All rights reserved
+        A Unit of Viren Corporation © 2022 <br />&nbsp; All rights reserved to VC
       </p1>
     </footer>
   );
