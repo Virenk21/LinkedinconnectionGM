@@ -6,8 +6,9 @@ const Footer = () => {
       <p></p>
       <p1>
         {" "}
-        KK enterprise Pvt Ltd. A Unit of Viren Corporation © 2022 <br /> &nbsp; All rights reserved
-        &nbsp; Thanks fo visiting us.
+        KK enterprise Pvt Ltd. A Unit of Viren Corporation © 2022 <br /> &nbsp;
+        All Rights Reserved &nbsp; Thanks fo visiting us. &nbsp; Designed and
+        Developed by: Viren Corp.
       </p1>
     </footer>
   );
